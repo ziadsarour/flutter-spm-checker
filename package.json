@@ -1,0 +1,23 @@
+{
+  "name": "flutter-spm-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".output/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "tsx": "^4.19.2",
+    "yaml": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "@types/node": "^22.10.2"
+  }
+}
